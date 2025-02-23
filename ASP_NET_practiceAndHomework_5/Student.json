@@ -1,0 +1,11 @@
+{
+  "Student": {
+    "Name": "Student",
+    "Surname": "Likes Learning",
+    "Age": 43,
+    "Subjects": "Python Core, C++, Angular and React, ASP.NET, C#, Data Base Management, Network Programming, NodeJS, System Programming"
+  },
+  "FontColor": {
+    "mColor": "green" // color for h1
+  }
+}
